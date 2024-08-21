@@ -1,0 +1,49 @@
+List of URL to be allowed for Package Availablity		
+S.No	Item	Destination URL
+1	Ansible Collection	https://galaxy.ansible.com
+2	RHEL	https://sso.redhat.com
+		https://access.cdn.redhat.com
+		https://access.redhat.com/
+		https://www.redhat.com
+		https://cdn.redhat.com
+		https://subscription.rhn.redhat.com/
+		https://subscription.rhsm.redhat.com
+3	Jenkins	https://updates.jenkins.io
+		https://plugins.jenkins.io/
+		https://updates.jenkins-ci.org
+		https://www.jenkins.io/
+		https://pkg.jenkins.io
+		http://pkg.jenkins-ci.org
+		https://jenkins-ci.org
+		https://mirrors.jenkins.io/
+4	Powershell	https://packages.microsoft.com
+5	Python	https://pypi.org/
+6	Centos	https://vault.centos.org/
+		https://mirror.stream.centos.org
+		https://mirrormanager.fedoraproject.org/
+		https://centos.mirror.garr.it/
+		https://us.mirrors.cicku.me/centos/
+		https://dl.rockylinux.org/
+7	Rocky	https://dl.rockylinux.org/
+		https://mirror.bharatdatacenter.com/
+		https://mirrors.iitd.ac.in/
+		https://repo.uccs.edu
+		https://mirrors.rockylinux.org
+		https://mirror.aarnet.edu.au
+		https://rocky-linux-australia-southeast1.production.gcp.mirrors.ctrliq.cloud/
+8	OpenSuse	https://download.opensuse.org/
+		https://mirrors.ustc.edu.cn/
+		https://mirrors.opensuse.org/
+9	Amzn Linux	https://cdn.amazonlinux.com/
+10	SLES	https://scc.suse.com 
+		https://updates.suse.com
+11	Ubuntu	http://archive.ubuntu.com/
+		http://security.ubuntu.com/ubuntu/
+		http://us.archive.ubuntu.com/
+		http://archive.canonical.com/
+		https://old-releases.ubuntu.com/
+
+Source	Port	Destination URL
+Ansible Server	80	
+Ansible Server	443	
+
